@@ -36,6 +36,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Atera](https://www.atera.com/) - All-in-one IT management solution with PSA and Remote Access.
 - [ConnectWise Automate](https://www.connectwise.com/software/automate) - RMM software that automates the technical work & improves ROI.
 - [Datto RMM](https://www.datto.com/rmm) - Managed service providers can remotely secure, monitor, and manage endpoints.
+- [ET Ducky](https://etducky.com/) - Cross-platform RMM for Windows and Linux built on kernel event telemetry (ETW and eBPF), with browser-based remote desktop, patch management, and behavioral security in the same agent.
 - [Kaseya VSA](https://www.kaseya.com/products/vsa) - Unified endpoint management, from traditional to emerging – including mobile IOT, VMs and more.
 - [Level](https://level.io) - Flexible, intuitive, and secure remote monitoring and management (RMM) platform.
 - [NinjaRMM](https://www.ninjaone.com/rmm/) - An appliance-based IT-OT convergence solution meant for the manufacturing segment that lets legacy OT systems (SCADA systems and PC controllers) securely connect over the internet over endpoints anywhere at any time.
